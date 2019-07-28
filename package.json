@@ -1,0 +1,26 @@
+{
+  "name": "t1-pengi",
+  "version": "1.0.0",
+  "description": "T1 App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamishwaddy/T1-Pengi.git"
+  },
+  "author": "Hamish Wadsworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamishwaddy/T1-Pengi/issues"
+  },
+  "homepage": "https://github.com/hamishwaddy/T1-Pengi#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
